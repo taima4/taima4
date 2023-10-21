@@ -2,7 +2,6 @@ Hi 👋 My name is taima abu taleb
 ================================
 
 from Palestine
---------------
 
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
 <br>
