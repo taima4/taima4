@@ -1,5 +1,5 @@
 <h1 align="center" > Hi, I'm Taima Abu Taleb </h1>
-<h3 align="center"display="inline">from Palestine<span fontsize="35px">𓂆</span> </h3>
+<h3 align="center"display="inline">from Palestine<span font-size="35px">𓂆</span> </h3>
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
 <br>
 🧠 I’m currently learning javascript,react 
