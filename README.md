@@ -5,7 +5,7 @@ from Palestine
 --------------
 
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
-<hr>
+<br>
 🧠 I’m currently learning javascript,react 
 👨‍💻 All of my projects are available at https://github.com/taima4 
 📫 How to reach me taimaabutaleb4@gmail.com
