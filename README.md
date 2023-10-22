@@ -13,7 +13,6 @@
 
 👨‍💻 All of my projects are available at  [**here**.](https://github.com/taima4?tab=repositories) 
 <br>
-
 📫 How to reach me **taimaabutaleb4@gmail.com**
 <br>
 
