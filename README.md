@@ -2,7 +2,6 @@
   
 <h1 align="center"> 𝐇𝐢, 𝐈'𝐦 𝐓𝐚𝐢𝐦𝐚 𝐀𝐛𝐮 𝐓𝐚𝐥𝐞𝐛</h1>
 <h4 align="center">𝗳𝗿𝗼𝗺 𝗣𝗮𝗹𝗲𝘀𝘁𝗶𝗻𝗲 <img  width="6px"  src="https://github.com/taima4/taima4/blob/main/images/imagesPal.png"></h4>
-![Profile Views](https://komarev.com/ghpvc/?username=taima4&label=PROFILE+VIEWS&style=plastic&color=CA6CA5)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taima4&label=Profile%20views&color=ca6ca5&style=flat" alt="taima4" /> </p>
 
 <br>
