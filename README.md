@@ -11,10 +11,10 @@
 🧠 I’m currently learning javascript,react 
 <br>
 
-👨‍💻 All of my projects are available at https://github.com/taima4 
+👨‍💻 All of my projects are available at  [**here**.](https://github.com/taima4?tab=repositories) 
 <br>
 
-📫 How to reach me taimaabutaleb4@gmail.com
+📫 How to reach me <a href="mailto:taimaabutaleb4@gmail.com"><img alt="E-mail" src="logo=gmail&logoColor=red"></a> 
 <br>
 
 
