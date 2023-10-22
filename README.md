@@ -5,17 +5,13 @@
 <img align="right" width="30%" src="https://github.com/taima4/taima4/blob/main/images/gitImg.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taima4&label=Profile%20views&color=ca6ca5&style=flat" alt="taima4" /> </p>
-
 <br>
-
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
 <br>
 🧠 I’m currently learning javascript,react 
 <br>
-
 👨‍💻 All of my projects are available at  [**here**.](https://github.com/taima4?tab=repositories) 
 <br>
-
 📫 How to reach me **taimaabutaleb4@gmail.com**
 <br>
 
