@@ -1,7 +1,7 @@
 
   
 <h1 align="center"> Hi, I'm Taima Abu Taleb </h1>
-<small align="center"> from Palestine<h1> 𓂆 </h1></small> 
+<h1><small align="center"> from Palestine</small>  𓂆 </h1>
 
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
 <br>
