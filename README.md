@@ -1,7 +1,7 @@
 
   
 <h1 align="center"> Hi, I'm Taima Abu Taleb </h1>
-<h3 align="center"> from Palestine <img align="left" width="5%"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGQ8c4itF_WNwdw-eDdM0RWEBW-4k9voA9hSD624IqQ&s"></h3>
+<h3 align="center"> from Palestine <img align="center" margin-right="50px" width="4.5%"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGQ8c4itF_WNwdw-eDdM0RWEBW-4k9voA9hSD624IqQ&s"></h3>
 
 
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
