@@ -11,7 +11,7 @@
 🧠 I’m currently learning javascript,react 
 <br>
 
-👨‍💻 All of my projects are available at  [**here**.](https://github.com/taima4?tab=repositories) 
+👨‍💻 All of my projects are available at  [**here**.](https://github.com/taima4?tab=repositories&color=ca6ca5) 
 <br>
 
 📫 How to reach me <a href="mailto:taimaabutaleb4@gmail.com"><img alt="E-mail" src="logo=gmail&logoColor=red"></a> 
