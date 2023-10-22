@@ -2,7 +2,7 @@
   
 <h1 align="center"> Hi, I'm Taima Abu Taleb </h1>
 <h3 align="center"> from Palestine 𓂆 </h3>
-<img align="right" width="50%" src="[https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGQ8c4itF_WNwdw-eDdM0RWEBW-4k9voA9hSD624IqQ&s)">
+<img align="right" width="50%" src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGQ8c4itF_WNwdw-eDdM0RWEBW-4k9voA9hSD624IqQ&s)">
 
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
 <br>
