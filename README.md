@@ -1,7 +1,7 @@
 
   
-<h1 align="center">  Hi, I'm Taima Abu Taleb</h1>
-<h3 align="center"> from Palestine <img  width="7px"  src="https://github.com/taima4/taima4/blob/main/images/imagesPal.png"></h3>
+<h1 align="center"> 𝐇𝐢, 𝐈'𝐦 𝐓𝐚𝐢𝐦𝐚 𝐀𝐛𝐮 𝐓𝐚𝐥𝐞𝐛</h1>
+<h3 align="center"> 𝘧𝘳𝘰𝘮 𝘗𝘢𝘭𝘦𝘴𝘵𝘪𝘯𝘦 <img  width="7px"  src="https://github.com/taima4/taima4/blob/main/images/imagesPal.png"></h3>
 
 
 🌱 I’m currently studying at Palestine Technical University - Kadoorie 
