@@ -178,21 +178,19 @@
       width="36"
       height="36"
       alt="Oracle" /></a
-  >  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
+  >  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+      width="36"
+      height="36"
+      alt="MongoDB" /></a
+  ><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+      width="36"
+      height="36"
+      alt="MySQL"
+  /></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
