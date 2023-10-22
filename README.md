@@ -1,6 +1,6 @@
 
   
-<h1 align="center"> Hi, I'm Taima Abu Taleb </h1>
+<h1 align="center">  Hi, I'm Taima Abu Taleb</h1>
 <h3 align="center"> from Palestine <img  width="7px"  src="https://github.com/taima4/taima4/blob/main/images/imagesPal.png"></h3>
 
 
