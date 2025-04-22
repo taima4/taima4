@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taima4&label=Profile%20views&color=ca6ca5&style=flat" alt="taima4" /> </p>
 
-I'm a **Frontend Developer** with a passion for building interactive and dynamic web applications.
 
 🌱 I graduated with a **B.Sc. in Computer Systems Engineering** from Palestine Technical University - Kadoorie.
 
