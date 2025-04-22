@@ -5,18 +5,19 @@
 <img align="right" width="30%" src="https://github.com/taima4/taima4/blob/main/images/gitImg.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taima4&label=Profile%20views&color=ca6ca5&style=flat" alt="taima4" /> </p>
-<p>I'm a **Frontend Developer** with a passion for building interactive and dynamic web applications.</p>
-<br>
-🌱  I graduated with a **B.Sc. in Computer Systems Engineering** from Palestine Technical University - Kadoorie 
-<br>
-🧠 Currently, I’m improving my skills in [**React.js**] and [**TypeScript**].
-<br>
- 💻 I have experience in [**React.js**], [**TypeScript**], and[**JavaScript**]. I’ve worked on several projects where I developed user interfaces, integrated APIs, and optimized performance to ensure a seamless experience.
-<br>
-👨‍💻 All of my projects are available at  [**here**.](https://github.com/taima4?tab=repositories) 
-<br>
-📫 How to reach me **taimaabutaleb4@gmail.com**
-<br>
+
+I'm a **Frontend Developer** with a passion for building interactive and dynamic web applications.
+
+🌱 I graduated with a **B.Sc. in Computer Systems Engineering** from Palestine Technical University - Kadoorie.
+
+🧠 Currently, I’m improving my skills in **React.js** and **TypeScript**.
+
+💻 I have experience in **React.js**, **TypeScript**, and **JavaScript**. I’ve worked on several projects where I developed user interfaces, integrated APIs, and optimized performance to ensure a seamless experience.
+
+👨‍💻 All of my projects are available at [**here**](https://github.com/taima4?tab=repositories).
+
+📫 How to reach me: **taimaabutaleb4@gmail.com**
+
 
 
 ### Connect with me:
