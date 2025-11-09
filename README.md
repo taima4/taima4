@@ -9,7 +9,7 @@
 
 🌱 I graduated with a **B.Sc. in Computer Systems Engineering** from Palestine Technical University - Kadoorie.
 
-🧠 Currently, I’m improving my skills in **React.js** and **TypeScript**.
+🧠 Currently, I’m improving my skills in **Next.js**.
 
 💻 I have experience in **React.js**, **TypeScript**, and **JavaScript**. I’ve worked on several projects where I developed user interfaces, integrated APIs, and optimized performance to ensure a seamless experience.
 
